@@ -1,0 +1,56 @@
+* {
+    
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header {
+    background-color: darkorchid;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', sans-serif
+}
+
+h3 {
+    background-color:#b234d1;
+    color: white;
+    margin: 3px;
+    padding: 3px;
+    font-family: 'Lucida Sans', sans-serif;
+    border-radius: 10px;
+}
+
+.education > p {
+    margin: 0;
+}
+
+footer {
+    background-color: dimgrey;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
+
+
+ul.urlImages li {
+    list-style: none;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline;
+}
+
+.urlImages img {
+    width: 30px;
+    height: auto;
+}
+
+body {
+    margin: 0;
+}
+
+.experience > i, .projects i {
+    float: right;
+}
+
